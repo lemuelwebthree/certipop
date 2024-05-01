@@ -1,6 +1,10 @@
-# Review Frontend
+# Certipop
 
-Contains a single page application for interacting with the certipop proof of payment program
+Certipop empowers users to create verifiable proof of payments on Solana.
+
+This is a single page dapp for interacting with the certipop proof of payment program. 
+
+The transaction reference field in the certipop form offers an almost unopiniated way to add a reference to the proof of payment: i.e. purchase order number, invoice number, quote number and any other arbitrary trasnaction that needs verifiable proof.
 
 ## Getting Started
 
@@ -17,5 +21,3 @@ yarn run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
